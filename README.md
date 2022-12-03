@@ -1,4 +1,4 @@
-# wound_classification
+# Wound Classification
 
 Link to Dataset Repo: https://github.com/uwm-bigdata/wound-segmentation
 
